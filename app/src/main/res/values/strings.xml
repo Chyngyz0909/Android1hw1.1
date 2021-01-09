@@ -1,3 +1,17 @@
 <resources>
+
     <string name="app_name">Android1hw1.1</string>
+    <string name="following_hint">Following</string>
+    <string name="followers_hint">Followers</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="Enter">Вход</string>
+    <string name="makeenter">Выполните вход</string>
+    <string name="registrationit" translatable="false">или зарегестрируйтесь.</string>
+    <string name="putmail">Введите вашу почту</string>
+    <string name="password">Введите пароль</string>
+    <string name="enterit">Войти</string>
+    <string name="forgotpass">Забыл пароль?</string>
+    <string name="pressit">Нажми сюда</string>
+
+
 </resources>
